@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/top-programming-blogs/static/css/main.c1b78b7d.chunk.css",
-    "main.js": "/top-programming-blogs/static/js/main.8f229c5d.chunk.js",
-    "main.js.map": "/top-programming-blogs/static/js/main.8f229c5d.chunk.js.map",
-    "runtime-main.js": "/top-programming-blogs/static/js/runtime-main.83ebe90c.js",
-    "runtime-main.js.map": "/top-programming-blogs/static/js/runtime-main.83ebe90c.js.map",
-    "static/js/2.55ac8b13.chunk.js": "/top-programming-blogs/static/js/2.55ac8b13.chunk.js",
-    "static/js/2.55ac8b13.chunk.js.map": "/top-programming-blogs/static/js/2.55ac8b13.chunk.js.map",
-    "static/js/3.ea4dd365.chunk.js": "/top-programming-blogs/static/js/3.ea4dd365.chunk.js",
-    "static/js/3.ea4dd365.chunk.js.map": "/top-programming-blogs/static/js/3.ea4dd365.chunk.js.map",
-    "index.html": "/top-programming-blogs/index.html",
-    "static/css/main.c1b78b7d.chunk.css.map": "/top-programming-blogs/static/css/main.c1b78b7d.chunk.css.map",
-    "static/js/2.55ac8b13.chunk.js.LICENSE.txt": "/top-programming-blogs/static/js/2.55ac8b13.chunk.js.LICENSE.txt"
+    "main.css": "/harperdb-demo/static/css/main.c1b78b7d.chunk.css",
+    "main.js": "/harperdb-demo/static/js/main.8f229c5d.chunk.js",
+    "main.js.map": "/harperdb-demo/static/js/main.8f229c5d.chunk.js.map",
+    "runtime-main.js": "/harperdb-demo/static/js/runtime-main.886357bb.js",
+    "runtime-main.js.map": "/harperdb-demo/static/js/runtime-main.886357bb.js.map",
+    "static/js/2.55ac8b13.chunk.js": "/harperdb-demo/static/js/2.55ac8b13.chunk.js",
+    "static/js/2.55ac8b13.chunk.js.map": "/harperdb-demo/static/js/2.55ac8b13.chunk.js.map",
+    "static/js/3.ea4dd365.chunk.js": "/harperdb-demo/static/js/3.ea4dd365.chunk.js",
+    "static/js/3.ea4dd365.chunk.js.map": "/harperdb-demo/static/js/3.ea4dd365.chunk.js.map",
+    "index.html": "/harperdb-demo/index.html",
+    "static/css/main.c1b78b7d.chunk.css.map": "/harperdb-demo/static/css/main.c1b78b7d.chunk.css.map",
+    "static/js/2.55ac8b13.chunk.js.LICENSE.txt": "/harperdb-demo/static/js/2.55ac8b13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83ebe90c.js",
+    "static/js/runtime-main.886357bb.js",
     "static/js/2.55ac8b13.chunk.js",
     "static/css/main.c1b78b7d.chunk.css",
     "static/js/main.8f229c5d.chunk.js"
