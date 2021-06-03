@@ -1,7 +1,7 @@
 {
-  "name": "top-blogs",
+  "name": "harperdb-demo",
   "version": "0.1.0",
-  "homepage":"https://victoria.github.io/top-programming-blogs",
+  "homepage":"https://victoria.github.io/harperdb-demo/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",

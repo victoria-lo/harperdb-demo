@@ -9,6 +9,6 @@ To learn how to build this, please visit https://lo-victoria.com/
 3. `npm start`
 
 ### See live demo at: 
-https://victoria.github.io/top-programming-blogs
+https://victoria-lo.github.io/harperdb-demo/
 
 ![screenshot](public/demo.PNG)
